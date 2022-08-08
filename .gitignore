@@ -1,0 +1,5 @@
+#  ignor ethe log file
+log.txt
+
+# ignore the folder dir1 
+/dir1
